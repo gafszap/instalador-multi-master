@@ -5,7 +5,7 @@
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/gafszap/instalador-multi-master/README.md install && sudo chmod -R 777 ./instalador-multi-master && cd ./instalador-multi-master && sudo ./install_primaria
+sudo apt install -y git && git clone https://https://github.com/gafszap/instalador-multi-master/blob/master/README.md install && sudo chmod -R 777 ./instalador-multi-master && cd ./instalador-multi-master && sudo ./instalador-multi-master
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
